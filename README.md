@@ -1,2 +1,4 @@
 # hello-world
-Learning Git Hub
+
+Hello,
+Starting on the journey of Node.js and Java
